@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="smart-expense-tracker-aish archive">
+    <output-path>$PROJECT_DIR$/out/artifacts/smart_expense_tracker_aish_archive</output-path>
+    <root id="archive" name="smart-expense-tracker-aish archive.war">
+      <element id="artifact" artifact-name="smart-expense-tracker-aish" />
+    </root>
+  </artifact>
+</component>
